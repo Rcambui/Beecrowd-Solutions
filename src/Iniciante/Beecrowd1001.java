@@ -28,7 +28,7 @@ public class Beecrowd1001 {
         int x = a + b;
         System.out.println("X = " + x);
 
-
+        scan.close();
     }
 
 }
