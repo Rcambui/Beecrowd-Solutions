@@ -37,7 +37,7 @@ public class Beecrowd1012 {
         System.out.println(String.format("TRAPEZIO: %.3f", trapezio));
         System.out.println(String.format("QUADRADO: %.3f", quadrado));
         System.out.println(String.format("RETANGULO: %.3f", retangulo));
-
+        
         scan.close();
     }
 
