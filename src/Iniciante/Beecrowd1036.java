@@ -26,6 +26,8 @@ public class Beecrowd1036 {
         double B = scan.nextDouble();
         double C = scan.nextDouble();
 
+        scan.close();
+
         if ((A == 0) | (B * B - 4 * A * C < 0)) {
 			System.out.println("Impossivel calcular");
 			return;
